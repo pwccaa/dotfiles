@@ -1,0 +1,2 @@
+require('pwcca')
+print('init')
