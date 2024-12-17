@@ -1,4 +1,4 @@
-"# dotfiles" 
+# dotfiles 
 basic nvim configs, 
 will grow with time
 
